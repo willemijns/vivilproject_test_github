@@ -1,1 +1,3 @@
-oups i forgot the initial code ;)
+<?php
+$numerodedebug = "1";
+?>
